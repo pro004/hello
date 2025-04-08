@@ -1,0 +1,30 @@
+[
+  {
+    "name": "",
+    "usage": 1
+  },
+  {
+    "name": "npm",
+    "usage": 1
+  },
+  {
+    "name": "admin",
+    "usage": 2
+  },
+  {
+    "name": "pe",
+    "usage": 1
+  },
+  {
+    "name": "help",
+    "usage": 5
+  },
+  {
+    "name": "help2",
+    "usage": 1
+  },
+  {
+    "name": "wl",
+    "usage": 4
+  }
+]
